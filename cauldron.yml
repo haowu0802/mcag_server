@@ -105,9 +105,9 @@ world-environment-settings:
     keep-world-loaded: true
   the_end:
     keep-world-loaded: false
-  glacia:
-    keep-world-loaded: true
   twilightforest:
     keep-world-loaded: false
+  glacia:
+    keep-world-loaded: true
   caves:
     keep-world-loaded: false

@@ -1,0 +1,1 @@
+java -jar KBootstrap-0.2.0-app.jar -j "-Xmx4G -XX:+UseParNewGC" -r latest

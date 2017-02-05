@@ -1,0 +1,1612 @@
+[18:50:00] [main/INFO] [FML/]: Forge Mod Loader version 7.99.4.1614 for Minecraft 1.7.10 loading
+[18:50:00] [main/INFO] [FML/]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_121, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_121
+[18:50:00] [main/INFO] [STDERR/]: [pw.prok.imagine.ImagineLoadingPlugin:<clinit>:26]: Loading plugin initialized!
+[18:50:00] [main/INFO] [FML/]: Loading tweaker forestry.shade.javacheck.Java7Checker from forestry_1.7.10-4.2.7.55.jar
+[18:50:00] [main/WARN] [FML/]: The following coremods do not have a @MCVersion annotation. They may cause problems if this is not the correct version of Minecraft for them.
+[18:50:00] [main/WARN] [FML/]: Missing @MCVersion: com.spacechase0.minecraft.spacecore.asm.SpaceCorePlugin  cofh.asm.LoadingPlugin  
+[18:50:00] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:50:00] [main/INFO] [LaunchWrapper/]: Loading tweak class name forestry.shade.javacheck.Java7Checker
+[18:50:00] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[18:50:00] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:50:00] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:50:00] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:50:01] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:50:01] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:50:02] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:50:05] [main/INFO] [LaunchWrapper/]: Calling tweak class forestry.shade.javacheck.Java7Checker
+[18:50:05] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[18:50:05] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:50:05] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.TerminalTweaker
+[18:50:05] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.TerminalTweaker
+[18:50:05] [main/INFO] [LaunchWrapper/]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[18:50:07] [Server thread/INFO] [MinecraftForge/]: Attempting early MinecraftForge initialization
+[18:50:07] [Server thread/INFO] [FML/]: MinecraftForge v10.13.4.1614 Initialized
+[18:50:07] [Server thread/INFO] [FML/]: Replaced 183 ore recipies
+[18:50:07] [Server thread/INFO] [MinecraftForge/]: Completed early MinecraftForge initialization
+[18:50:08] [Server thread/INFO] [FML/]: Found 0 mods from the command line. Injecting into mod discoverer
+[18:50:08] [Server thread/INFO] [FML/]: Searching D:\gm\mc\server\mods for mods
+[18:50:08] [Server thread/WARN] [SC0_SpaceCore/]: Mod SC0_SpaceCore is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 0.7.14
+[18:50:08] [Server thread/WARN] [SC0_UsefulPets/]: Mod SC0_UsefulPets is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.3
+[18:50:09] [Server thread/INFO] [FML/]: Attempting to reparse the mod container Glacia 7.5b.jar
+[18:50:10] [Server thread/INFO] [FML/]: Forge Mod Loader has identified 29 mods to load
+[18:50:10] [Server thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge, kimagine, <CoFH ASM>, SC0_SpaceCore, SC0_UsefulPets, BuildCraft|Builders, BuildCraft|Transport, BuildCraft|Energy, BuildCraft|Silicon, BuildCraft|Robotics, BuildCraft|Core, BuildCraft|Factory, CarpentersBlocks, CoFHCore, exastrisrebirth, exnihilo, Forestry, Glacia, IguanaTweaksTConstruct, Mantle, cfm, Railcraft, TConstruct, ThermalExpansion, ThermalFoundation, TwilightForest, weaponmod] at CLIENT
+[18:50:10] [Server thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge, kimagine, <CoFH ASM>, SC0_SpaceCore, SC0_UsefulPets, BuildCraft|Builders, BuildCraft|Transport, BuildCraft|Energy, BuildCraft|Silicon, BuildCraft|Robotics, BuildCraft|Core, BuildCraft|Factory, CarpentersBlocks, CoFHCore, exastrisrebirth, exnihilo, Forestry, Glacia, IguanaTweaksTConstruct, Mantle, cfm, Railcraft, TConstruct, ThermalExpansion, ThermalFoundation, TwilightForest, weaponmod] at SERVER
+[18:50:11] [Server thread/INFO] [SC0_SpaceCore/SC0_SpaceCore]: Adding artificial preInit to com/spacechase0/minecraft/spacecore/SpaceCore
+[18:50:11] [Server thread/INFO] [SC0_SpaceCore/SC0_SpaceCore]: Adding artificial postInit to com/spacechase0/minecraft/spacecore/SpaceCore
+[18:50:11] [Server thread/INFO] [SC0_SpaceCore/SC0_UsefulPets]: Adding artificial preInit to com/spacechase0/minecraft/usefulpets/UsefulPets
+[18:50:11] [Server thread/ERROR] [Mantle/Mantle]: [Environment Checks] Bukkit implementation detected. This may cause issues. Bukkit implementations include Craftbukkit and Cauldron(MCPC+).
+[18:50:11] [Server thread/INFO] [TConstruct/TConstruct]: Preparing to take over the world
+[18:50:12] [Server thread/INFO] [FML/]: Processing ObjectHolder annotations
+[18:50:12] [Server thread/INFO] [FML/]: Found 337 ObjectHolder annotations
+[18:50:12] [Server thread/INFO] [FML/]: Identifying ItemStackHolder annotations
+[18:50:12] [Server thread/INFO] [FML/]: Found 0 ItemStackHolder annotations
+[18:50:12] [Server thread/INFO] [FML/Forge]: Configured a dormant chunk cache size of 0
+[18:50:12] [Server thread/INFO] [CoFHWorld/CoFHCore]: Registering Default Templates.
+[18:50:12] [Server thread/INFO] [CoFHWorld/CoFHCore]: Registering default generators
+[18:50:12] [Server thread/INFO] [CoFHWorld/CoFHCore]: Complete
+[18:50:12] [Server thread/INFO] [BuildCraft/BuildCraft|Core]: Starting BuildCraft 7.1.14
+[18:50:12] [Server thread/INFO] [BuildCraft/BuildCraft|Core]: Copyright (c) the BuildCraft team, 2011-2015
+[18:50:12] [Server thread/INFO] [BuildCraft/BuildCraft|Core]: http://www.mod-buildcraft.com
+[18:50:12] [Thread-10/INFO] [BuildCraft/BuildCraft|Core]: Beginning version check
+[18:50:13] [Thread-10/WARN] [BuildCraft/BuildCraft|Core]: Using outdated version [7.1.14] for Minecraft 1.7.10. Consider updating to 7.1.19.
+[18:50:13] [CoFHUpdater:CoFHCore/INFO] [CoFHCore/CoFHCore]: An updated version of CoFH Core is available: CoFH Core 3.1.3 for Minecraft 1.7.10.
+[18:50:13] [Server thread/INFO] [CarpentersBlocks/CarpentersBlocks]: Designs found: Bed(6), Chisel(9), FlowerPot(18), Tile(13)
+[18:50:13] [Server thread/INFO] [Mantle/Mantle]: Mantle (1.7.10-0.3.2.jenkins191) -- Preparing for launch.
+[18:50:13] [Server thread/INFO] [Mantle/Mantle]: Entering preinitialization phase.
+[18:50:13] [Server thread/INFO] [Mantle/Mantle]: Loading configuration from disk.
+[18:50:13] [Server thread/INFO] [Mantle/Mantle]: Configuration load completed.
+[18:50:13] [Server thread/INFO] [ThermalFoundation/ThermalFoundation]: Thermal Foundation: Loading Plugins...
+[18:50:13] [Server thread/INFO] [ThermalFoundation/ThermalFoundation]: Thermal Foundation: Finished Loading Plugins.
+[18:50:14] [Server thread/INFO] [ThermalExpansion/ThermalExpansion]: ThermalExpansion: Loading Plugins...
+[18:50:14] [Server thread/INFO] [ThermalExpansion/ThermalExpansion]: Thermal Expansion: Finished Loading Plugins.
+[18:50:14] [CoFHUpdater:ThermalFoundation/INFO] [ThermalFoundation/ThermalFoundation]: An updated version of Thermal Foundation is available: Thermal Foundation 1.2.5 for Minecraft 1.7.10.
+[18:50:14] [Server thread/INFO] [PulseManager-TConstruct/TConstruct]: Skipping Pulse Tinkers Thaumcraft Compatibility; missing dependency: Thaumcraft
+[18:50:14] [Server thread/INFO] [PulseManager-TConstruct/TConstruct]: Skipping Pulse Tinkers Waila Compatibility; missing dependency: Waila
+[18:50:14] [Server thread/INFO] [PulseManager-TConstruct/TConstruct]: Skipping Pulse Tinkers AE2 Compatibility; missing dependency: appliedenergistics2
+[18:50:14] [Server thread/INFO] [PulseManager-TConstruct/TConstruct]: Skipping Pulse Tinkers IC2 Compatibility; missing dependency: IC2
+[18:50:14] [Server thread/INFO] [PulseManager-TConstruct/TConstruct]: Skipping Pulse Tinkers Mystcraft Compatibility; missing dependency: Mystcraft
+[18:50:14] [Server thread/INFO] [PulseManager-TConstruct/TConstruct]: Skipping Pulse Tinkers MFR Compatibility; missing dependency: MineFactoryReloaded
+[18:50:14] [Server thread/INFO] [PulseManager-TConstruct/TConstruct]: Skipping Pulse Tinkers FMP Compatibility; missing dependency: ForgeMultipart
+[18:50:14] [Server thread/INFO] [PulseManager-TConstruct/TConstruct]: Skipping Pulse Tinkers' Underground Biomes Compatiblity; missing dependency: UndergroundBiomes
+[18:50:14] [Server thread/INFO] [PulseManager-TConstruct/TConstruct]: Skipping Pulse Tinkers RF-Tools Compatibility; missing dependency: rftools
+[18:50:14] [CoFHUpdater:ThermalExpansion/INFO] [ThermalExpansion/ThermalExpansion]: An updated version of Thermal Expansion is available: Thermal Expansion 4.1.4 for Minecraft 1.7.10.
+[18:50:14] [Server thread/INFO] [TConstruct/TConstruct]: Gear module active. Adding gear cast.
+[18:50:14] [Server thread/INFO] [Forestry/Forestry]: Module AgriCraft Plugin failed to load: AgriCraft not found
+[18:50:14] [Server thread/INFO] [Forestry/Forestry]: Module BiomesOPlenty Plugin failed to load: BiomesOPlenty not found
+[18:50:14] [Server thread/INFO] [Forestry/Forestry]: Module Chisel Plugin failed to load: Chisel not found
+[18:50:14] [Server thread/INFO] [Forestry/Forestry]: Module EnderIO Plugin failed to load: EnderIO not found
+[18:50:14] [Server thread/INFO] [Forestry/Forestry]: Module Erebus Plugin failed to load: Erebus not found
+[18:50:14] [Server thread/INFO] [Forestry/Forestry]: Module ExtraUtilities Plugin failed to load: ExtraUtilities not found
+[18:50:14] [Server thread/INFO] [Forestry/Forestry]: Module Growthcraft Plugin failed to load: GrowthCraft not found
+[18:50:14] [Server thread/INFO] [Forestry/Forestry]: Module HarvestCraft Plugin failed to load: HarvestCraft not found
+[18:50:14] [Server thread/INFO] [Forestry/Forestry]: Module ImmersiveEngineering Plugin failed to load: Immersive Engineering not found
+[18:50:14] [Server thread/INFO] [Forestry/Forestry]: Module IndustrialCraft2 Plugin failed to load: IndustrialCraft2 not found
+[18:50:14] [Server thread/INFO] [Forestry/Forestry]: Module MagicalCrops Plugin failed to load: Magical Crops not found
+[18:50:14] [Server thread/INFO] [Forestry/Forestry]: Module Natura Plugin failed to load: Natura not found
+[18:50:14] [Server thread/INFO] [Forestry/Forestry]: Module PlantMegaPack Plugin failed to load: Plant Mega Pack not found
+[18:50:14] [Server thread/INFO] [Forestry/Forestry]: Module RotaryCraft Plugin failed to load: RotaryCraft not found
+[18:50:14] [Server thread/INFO] [Forestry/Forestry]: Module Witchery Plugin failed to load: Witchery not found
+[18:50:15] [Server thread/INFO] [Railcraft/Railcraft]: Bukkit detected, disabling Tile Entity caching because Bukkit doesnt seem to invalid Tile Entities properly!
+[18:50:16] [Server thread/INFO] [Railcraft/Railcraft]: Module disabled: ModuleIC2, IC2 not detected
+[18:50:16] [Server thread/INFO] [Railcraft/Railcraft]: Module disabled: ModuleThaumcraft, Thaumcraft not detected
+[18:50:16] [Server thread/WARN] [FML/Railcraft]: A mod has attempted to assign Block mods.railcraft.common.fluids.BlockRailcraftFluidFinite@64d001a7 to the Fluid 'steam' but this Fluid has already been linked to the Block cofh.thermalfoundation.fluid.BlockFluidSteam@678653a0. You may have duplicate Fluid Blocks as a result. It *may* be possible to configure your mods to avoid this.
+[18:50:16] [Railcraft Version Check/INFO] [Railcraft/Railcraft]: An updated version of Railcraft is available from <http://railcraft.info>: 9.12.2.0
+[18:50:16] [Railcraft Version Check/INFO] [Railcraft/Railcraft]: An updated version of Railcraft is available from <http://railcraft.info>: 9.12.2.0
+[18:50:17] [Server thread/INFO] [PulseManager-IguanaTweaksTConstruct/IguanaTweaksTConstruct]: Skipping Pulse MultipartCompat; missing dependency: ForgeMultipart
+[18:50:17] [Server thread/INFO] [FML/]: Applying holder lookups
+[18:50:17] [Server thread/INFO] [FML/]: Holder lookups applied
+[18:50:17] [Server thread/INFO] [FML/]: Injecting itemstacks
+[18:50:17] [Server thread/INFO] [FML/]: Itemstack injection complete
+[18:50:17] [Server thread/INFO] [Minecraft/]: This server is running KCauldron version 1.7.10-R0.1-SNAPSHOT (MC: 1.7.10) (Implementing API version 1.7.10-R0.1-SNAPSHOT)
+[18:50:17] [Server thread/INFO] [Minecraft/]: Using 8 threads for Netty based IO
+[18:50:17] [Server thread/INFO] [/]: Server Ping Player Sample Count: 12
+[18:50:18] [Server thread/INFO] [Mantle/Mantle]: Entering initialization phase.
+[18:50:18] [Server thread/INFO] [TConstruct/TConstruct]: BuildCraft detected. Registering facades.
+[18:50:19] [Server thread/INFO] [FML/]: Injecting itemstacks
+[18:50:19] [Server thread/INFO] [FML/]: Itemstack injection complete
+[18:50:19] [Server thread/INFO] [BuildCraft/BuildCraft|Core]: BuildCraft's fake player: UUID = 77456a1f-b9f9-3f84-8863-ddef5b8e2209, name = '[BuildCraft]'!
+[18:50:19] [Server thread/INFO] [Ex Nihilo/exnihilo]: +++ - Found Forestry!
+[18:50:19] [Server thread/INFO] [Ex Nihilo/exnihilo]: Apatite was successfully integrated
+[18:50:19] [Server thread/INFO] [Ex Nihilo/exnihilo]: Beginning Hive Registry...
+[18:50:19] [Server thread/INFO] [Ex Nihilo/exnihilo]: Compatibility OK!: Forestry Bees
+[18:50:19] [Server thread/INFO] [Ex Nihilo/exnihilo]: Compatibility FAIL!: Extra Bees
+[18:50:19] [Server thread/INFO] [Ex Nihilo/exnihilo]: Compatibility FAIL!: Magic Bees
+[18:50:19] [Server thread/INFO] [Ex Nihilo/exnihilo]: Hive Registry Completed!
+[18:50:19] [Server thread/INFO] [Ex Nihilo/exnihilo]: Recipes sucessfully added
+[18:50:19] [Server thread/INFO] [Ex Nihilo/exnihilo]: --- Forestry Integration Complete!
+[18:50:19] [Server thread/INFO] [Ex Nihilo/exnihilo]: +++ - Found ThermalExpansion!
+[18:50:19] [Server thread/INFO] [Ex Nihilo/exnihilo]: Pulverizer: overwrote the cobble->sand recipe with cobble->gravel
+[18:50:19] [Server thread/INFO] [Ex Nihilo/exnihilo]: Pulverizer: added recipe for gravel->sand
+[18:50:19] [Server thread/INFO] [Ex Nihilo/exnihilo]: Pulverizer: added recipe for sand->dust
+[18:50:19] [Server thread/INFO] [Ex Nihilo/exnihilo]: Added blazing pyrotheum as a crucible heat source
+[18:50:19] [Server thread/INFO] [Ex Nihilo/exnihilo]: --- Thermal Expansion Integration Complete!
+[18:50:19] [Server thread/INFO] [Ex Nihilo/exnihilo]: +++ - Found Tinkers Construct!
+[18:50:19] [Server thread/INFO] [Ex Nihilo/exnihilo]: --- Tinkers Construct Integration Complete!
+[18:50:19] [Server thread/INFO] [Mantle/Mantle]: Entering postinitialization phase.
+[18:50:19] [Server thread/INFO] [Mantle/Mantle]: Loading Manual XML from: /assets/mantle/manuals/test.xml
+[18:50:19] [Server thread/INFO] [ThermalExpansion/ThermalExpansion]: There are no crafting files present in D:\gm\mc\server\config\cofh\thermalexpansion\crafting.
+[18:50:20] [Server thread/WARN] [TConstruct/TConstruct]: Could not find itemResourcefrom thaumcraft.common.config.ConfigItems
+[18:50:20] [Server thread/WARN] [TConstruct/TConstruct]: Thaumcraft not detected.
+[18:50:20] [Server thread/INFO] [Ex Astris Rebirth/exastrisrebirth]: +++ - Found ThermalExpansion!
+[18:50:20] [Server thread/INFO] [Ex Astris Rebirth/exastrisrebirth]: +++ - Found TConstruct!
+[18:50:20] [Server thread/INFO] [Forestry/Forestry]: Skipping CraftGuide integration.
+[18:50:20] [Server thread/WARN] [Railcraft/Railcraft]: Could not register CraftGuide plugins: CraftGuide missing.
+[18:50:20] [Server thread/INFO] [IguanaTweaksTConstruct/IguanaTweaksTConstruct]: Sticks and stones may break my bones, but your pickaxes and axes will break no blocks.
+[18:50:20] [Server thread/INFO] [FML/Forge]:   Unknown recipe class! forestry.core.recipes.ShapedRecipeCustom Modder please refer to net.minecraftforge.oredict.RecipeSorter
+[18:50:20] [Server thread/INFO] [CoFHWorld/CoFHCore]: CoFH Core found 2 World Generation files present in D:\gm\mc\server\config\cofh\world/.
+[18:50:20] [Server thread/INFO] [CoFHWorld/CoFHCore]: Reading world generation info from: D:\gm\mc\server\config\cofh\world\ThermalFoundation-Ores.json:
+[18:50:20] [Server thread/INFO] [ThermalFoundation/ThermalFoundation]: [Whitelist] Reading established Whitelist from file.
+[18:50:20] [Server thread/INFO] [ThermalFoundation/ThermalFoundation]: Thermal Foundation: Thaumcraft Plugin Enabled.
+[18:50:20] [Server thread/INFO] [ThermalFoundation/ThermalFoundation]: Thermal Foundation: Tinker's Construct Plugin Enabled.
+[18:50:20] [Server thread/INFO] [ThermalFoundation/ThermalFoundation]: Thermal Foundation: Load Complete.
+[18:50:20] [Server thread/INFO] [ThermalExpansion/ThermalExpansion]: Thermal Expansion: Forestry Plugin Enabled.
+[18:50:20] [Server thread/INFO] [ThermalExpansion/ThermalExpansion]: Thermal Expansion: Thaumcraft Plugin Enabled.
+[18:50:20] [Server thread/INFO] [ThermalExpansion/ThermalExpansion]: Thermal Expansion: Load Complete.
+[18:50:20] [Server thread/INFO] [FML/]: Forge Mod Loader has successfully loaded 29 mods
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTCORE_ETERNALSPRING with ID 165.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTCORE_BUILDTOOLBLOCK with ID 166.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTCORE_ENGINEBLOCK with ID 167.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTCORE_MARKERBLOCK with ID 168.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTCORE_PATHMARKERBLOCK with ID 169.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTBUILDERS_MACHINEBLOCK with ID 176.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTBUILDERS_FILLERBLOCK with ID 177.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTBUILDERS_FRAMEBLOCK with ID 178.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTBUILDERS_BUILDERBLOCK with ID 179.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTBUILDERS_ARCHITECTBLOCK with ID 180.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTBUILDERS_LIBRARYBLOCK with ID 181.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTBUILDERS_CONSTRUCTIONMARKERBLOCK with ID 182.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTTRANSPORT_FILTEREDBUFFERBLOCK with ID 183.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTTRANSPORT_PIPEBLOCK with ID 184.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTENERGY_BLOCKOIL with ID 185.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTENERGY_BLOCKFUEL with ID 186.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTENERGY_BLOCKREDPLASMA with ID 187.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTSILICON_LASERBLOCK with ID 188.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTSILICON_LASERTABLEBLOCK with ID 189.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTSILICON_PACKAGERBLOCK with ID 190.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTROBOTICS_ZONEPLAN with ID 191.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTROBOTICS_REQUESTER with ID 192.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTFACTORY_MININGWELLBLOCK with ID 193.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTFACTORY_PLAINPIPEBLOCK with ID 194.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTFACTORY_AUTOWORKBENCHBLOCK with ID 195.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTFACTORY_TANKBLOCK with ID 196.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTFACTORY_PUMPBLOCK with ID 197.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTFACTORY_FLOODGATEBLOCK with ID 198.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTFACTORY_REFINERYBLOCK with ID 199.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTFACTORY_BLOCKHOPPER with ID 200.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CARPENTERSBLOCKS_BLOCKCARPENTERSBLOCK with ID 201.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CARPENTERSBLOCKS_BLOCKCARPENTERSBARRIER with ID 202.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CARPENTERSBLOCKS_BLOCKCARPENTERSBED with ID 203.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CARPENTERSBLOCKS_BLOCKCARPENTERSBUTTON with ID 204.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CARPENTERSBLOCKS_BLOCKCARPENTERSCOLLAPSIBLEBLOCK with ID 205.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CARPENTERSBLOCKS_BLOCKCARPENTERSDAYLIGHTSENSOR with ID 206.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CARPENTERSBLOCKS_BLOCKCARPENTERSDOOR with ID 207.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CARPENTERSBLOCKS_BLOCKCARPENTERSFLOWERPOT with ID 208.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CARPENTERSBLOCKS_BLOCKCARPENTERSGARAGEDOOR with ID 209.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CARPENTERSBLOCKS_BLOCKCARPENTERSGATE with ID 210.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CARPENTERSBLOCKS_BLOCKCARPENTERSHATCH with ID 211.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CARPENTERSBLOCKS_BLOCKCARPENTERSLADDER with ID 212.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CARPENTERSBLOCKS_BLOCKCARPENTERSLEVER with ID 213.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CARPENTERSBLOCKS_BLOCKCARPENTERSPRESSUREPLATE with ID 214.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CARPENTERSBLOCKS_BLOCKCARPENTERSSAFE with ID 215.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CARPENTERSBLOCKS_BLOCKCARPENTERSSLOPE with ID 216.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CARPENTERSBLOCKS_BLOCKCARPENTERSSTAIRS with ID 217.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CARPENTERSBLOCKS_BLOCKCARPENTERSTORCH with ID 218.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material EXNIHILO_BARREL with ID 219.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material EXNIHILO_BARREL_STONE with ID 220.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material EXNIHILO_CRUCIBLE with ID 221.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material EXNIHILO_CRUCIBLE_UNFIRED with ID 222.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material EXNIHILO_DUST with ID 223.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material EXNIHILO_INFESTED_LEAVES with ID 224.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material EXNIHILO_SIFTING_TABLE with ID 225.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material EXNIHILO_BEE_TRAP with ID 226.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material EXNIHILO_BEE_TRAP_TREATED with ID 227.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material EXNIHILO_EXNIHILOGRAVEL_NETHER with ID 228.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material EXNIHILO_EXNIHILOGRAVEL_ENDER with ID 229.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material EXNIHILO_WITCHWATER with ID 230.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material THERMALFOUNDATION_ORE with ID 231.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material THERMALFOUNDATION_STORAGE with ID 232.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material THERMALFOUNDATION_FLUIDREDSTONE with ID 233.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material THERMALFOUNDATION_FLUIDGLOWSTONE with ID 234.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material THERMALFOUNDATION_FLUIDENDER with ID 235.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material THERMALFOUNDATION_FLUIDPYROTHEUM with ID 236.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material THERMALFOUNDATION_FLUIDCRYOTHEUM with ID 237.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material THERMALFOUNDATION_FLUIDAEROTHEUM with ID 238.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material THERMALFOUNDATION_FLUIDPETROTHEUM with ID 239.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material THERMALFOUNDATION_FLUIDMANA with ID 240.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material THERMALFOUNDATION_FLUIDSTEAM with ID 241.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material THERMALFOUNDATION_FLUIDCOAL with ID 242.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_LIQUIDSLIME with ID 243.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_MEATBLOCK with ID 244.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_WOOLSLAB1 with ID 245.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_WOOLSLAB2 with ID 246.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_TRAPPUNJI with ID 247.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_TRAPBARRICADEOAK with ID 248.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_TRAPBARRICADESPRUCE with ID 249.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_TRAPBARRICADEBIRCH with ID 250.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_TRAPBARRICADEJUNGLE with ID 251.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_EXPLOSIVESLIME with ID 252.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_SLIMEGEL with ID 253.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_SLIMEGRASS with ID 254.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_SLIMEGRASSTALL with ID 255.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_SLIMELEAVES with ID 409.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_SLIMESAPLING with ID 410.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_SLIMECHANNEL with ID 411.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_BLOODCHANNEL with ID 412.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_SLIMEPAD with ID 413.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_DECORATIONSTONETORCH with ID 414.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_DECORATIONSTONELADDER with ID 415.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_DECORATIONMULTIBRICK with ID 416.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_DECORATIONMULTIBRICKFANCY with ID 423.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_DECORATIONMULTIBRICKMETAL with ID 424.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_OREBERRIESONE with ID 425.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_OREBERRIESTWO with ID 426.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_SEAREDBRICK with ID 427.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_GRAVELORE with ID 428.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_RAILWOOD with ID 429.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_METALBLOCK with ID 430.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_TOOLSTATIONBLOCK with ID 431.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_TOOLFORGEBLOCK with ID 432.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_CRAFTINGSTATION with ID 433.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_CRAFTINGSLAB with ID 434.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_FURNACESLAB with ID 435.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_HELDITEMBLOCK with ID 436.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_BATTLESIGNBLOCK with ID 437.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_CRAFTEDSOIL with ID 438.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_FLUIDMOLTENIRON with ID 439.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_FLUIDMOLTENGOLD with ID 440.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_FLUIDMOLTENCOPPER with ID 441.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_FLUIDMOLTENTIN with ID 442.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_FLUIDMOLTENALUMINUM with ID 443.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_FLUIDMOLTENCOBALT with ID 444.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_FLUIDMOLTENARDITE with ID 445.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_FLUIDMOLTENBRONZE with ID 446.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_FLUIDMOLTENALUBRASS with ID 447.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_FLUIDMOLTENMANYULLYN with ID 448.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_FLUIDMOLTENALUMITE with ID 449.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_FLUIDMOLTENOBSIDIAN with ID 450.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_FLUIDMOLTENSTEEL with ID 451.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_FLUIDMOLTENGLASS with ID 452.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_MOLTENSTONE with ID 453.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_MOLTENEMERALD with ID 454.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_FLUIDMOLTENNICKEL with ID 455.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_FLUIDMOLTENLEAD with ID 456.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_FLUIDMOLTENSILVER with ID 457.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_FLUIDMOLTENSHINY with ID 458.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_FLUIDMOLTENINVAR with ID 459.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_FLUIDMOLTENELECTRUM with ID 460.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_FLUIDENDER with ID 461.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_FLUIDMOLTENLUMIUM with ID 462.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_FLUIDMOLTENSIGNALUM with ID 463.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_FLUIDMOLTENMITHRIL with ID 464.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_FLUIDMOLTENENDERIUM with ID 465.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_LIQUIDBLOOD with ID 466.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_LIQUIDGLUE with ID 467.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_FLUIDMOLTENPIGIRON with ID 468.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_SEAREDSLAB with ID 469.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_SPEEDSLAB with ID 470.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_GLUEBLOCK with ID 471.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_SMELTERY with ID 472.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_SMELTERYNETHER with ID 473.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_LAVATANK with ID 474.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_LAVATANKNETHER with ID 475.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_SEAREDBLOCK with ID 476.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_SEAREDBLOCKNETHER with ID 477.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_CASTINGCHANNEL with ID 478.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_SPEEDBLOCK with ID 479.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_GLASSBLOCK with ID 480.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_GLASSPANE with ID 481.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_GLASSBLOCKSTAINEDCLEAR with ID 482.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_GLASSPANECLEARSTAINED with ID 483.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_REDSTONELANDMINE with ID 484.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TCONSTRUCT_ARMORDRYINGRACK with ID 485.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material EXASTRISREBIRTH_BLOCKSIEVEAUTOMATIC with ID 486.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material EXASTRISREBIRTH_BLOCKHAMMERAUTOMATIC with ID 487.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material EXASTRISREBIRTH_BLOCKENDCAKE with ID 488.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material EXASTRISREBIRTH_BLOCKBEETRAPINFUSED with ID 489.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material EXASTRISREBIRTH_BLOCKBARRELTWEAK with ID 490.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material EXASTRISREBIRTH_BLOCKBARRELSTONE with ID 491.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material EXASTRISREBIRTH_BLOCKHARDSTONE with ID 492.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material EXASTRISREBIRTH_BLOCKORECOBALT with ID 493.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material EXASTRISREBIRTH_BLOCKOREARDITE with ID 494.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material FORESTRY_CORE with ID 495.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material FORESTRY_SOIL with ID 496.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material FORESTRY_RESOURCES with ID 497.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material FORESTRY_RESOURCESTORAGE with ID 498.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material FORESTRY_FLUIDBIOETHANOL with ID 499.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material FORESTRY_FLUIDBIOMASS with ID 500.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material FORESTRY_FLUIDGLASS with ID 501.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material FORESTRY_FLUIDHONEY with ID 502.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material FORESTRY_FLUIDICE with ID 503.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material FORESTRY_FLUIDJUICE with ID 504.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material FORESTRY_FLUIDMILK with ID 505.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material FORESTRY_FLUIDSEEDOIL with ID 506.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material FORESTRY_FLUIDSHORTMEAD with ID 507.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material FORESTRY_APICULTURE with ID 508.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material FORESTRY_APICULTURECHEST with ID 509.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material FORESTRY_BEEHIVES with ID 510.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material FORESTRY_CANDLE with ID 511.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material FORESTRY_STUMP with ID 512.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material FORESTRY_ALVEARY with ID 513.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material FORESTRY_LOGS with ID 514.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material FORESTRY_PLANKS with ID 515.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material FORESTRY_SLABS with ID 516.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material FORESTRY_SLABSDOUBLE with ID 517.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material FORESTRY_FENCES with ID 518.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material FORESTRY_STAIRS with ID 519.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material FORESTRY_LOGSFIREPROOF with ID 520.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material FORESTRY_PLANKSFIREPROOF with ID 521.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material FORESTRY_SLABSFIREPROOF with ID 522.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material FORESTRY_SLABSDOUBLEFIREPROOF with ID 523.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material FORESTRY_FENCESFIREPROOF with ID 524.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material FORESTRY_STAIRSFIREPROOF with ID 525.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material FORESTRY_SAPLINGGE with ID 526.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material FORESTRY_LEAVES with ID 527.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material FORESTRY_PODS with ID 528.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material FORESTRY_ARBORICULTURE with ID 529.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material FORESTRY_ENGINE with ID 530.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material FORESTRY_FACTORY with ID 531.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material FORESTRY_FACTORY2 with ID 532.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material FORESTRY_MUSHROOM with ID 533.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material FORESTRY_FFARM with ID 534.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material FORESTRY_LEPIDOPTEROLOGY with ID 535.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material FORESTRY_MAIL with ID 536.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material GLACIA_GLACIALBEDROCK with ID 537.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material GLACIA_GLACIALDIRT with ID 538.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material GLACIA_GLACIALGRASS with ID 539.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material GLACIA_GLACIALSTONE with ID 540.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material GLACIA_GLACIALMAGICSTONE with ID 541.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material GLACIA_GLACIALPORTAL with ID 542.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material GLACIA_GLACIALFIRE with ID 543.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material GLACIA_GLACIALWOOD with ID 544.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material GLACIA_GLACIALLEAVES with ID 545.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material GLACIA_GLACIALCRYSTALBLOCK with ID 546.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material GLACIA_GLACIALSAPLING with ID 547.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material GLACIA_GLACIALICEFLOWER with ID 548.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material GLACIA_GLACIALPLANKS with ID 549.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material GLACIA_GLACIALDOORBLOCK with ID 550.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material GLACIA_GLACIALWOODSTAIRS with ID 551.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material GLACIA_GLACIALWOODSLAB with ID 552.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material GLACIA_GLACIALSNOWYSAND with ID 553.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material GLACIA_GLACIALCOBBLESTONE with ID 554.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material GLACIA_GLACIALICEORE with ID 555.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material GLACIA_GLACIALWOODFENCE with ID 556.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material GLACIA_GLACIALWOODFENCEGATE with ID 557.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material GLACIA_GLACIALBERRYPLANT with ID 558.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material GLACIA_GLACIALCRYSTALOFPOWER with ID 559.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material GLACIA_GLACIALMAGICICE with ID 560.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material GLACIA_GLACIALICECOLUMN with ID 561.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material GLACIA_GLACIALGRANITECOLUMN with ID 562.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material GLACIA_GLACIALCOMPACTEDICE with ID 563.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_LAMPON with ID 564.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_LAMPOFF with ID 565.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_COFFETABLEWOOD with ID 566.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_COFFETABLESTONE with ID 567.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_TABLEWOOD with ID 568.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_TABLESTONE with ID 569.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_CHAIRWOOD with ID 570.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_CHAIRSTONE with ID 571.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_FREEZER with ID 572.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_FRIDGE with ID 573.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_CABINET with ID 574.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_COUCH with ID 575.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_BLINDON with ID 576.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_BLINDOFF with ID 577.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_CURTAINON with ID 578.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_CURTAINOFF with ID 579.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_BEDSIDECABINET with ID 580.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_OVEN with ID 581.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_OVENOVERHEAD with ID 582.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_HEDGE with ID 583.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_BIRDBATH with ID 584.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_STONEPATH with ID 585.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_WHITEFENCE with ID 586.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_TAP with ID 587.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_MAILBOX with ID 588.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_TV with ID 589.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_COMPUTER with ID 590.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_PRINTER with ID 591.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_ELECTRICFENCE with ID 592.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_DOORBELL with ID 593.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_FIREALARMOFF with ID 594.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_FIREALARMON with ID 595.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_CEILINGLIGHTOFF with ID 596.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_CEILINGLIGHTON with ID 597.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_STEREO with ID 598.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_TOILET with ID 599.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_BASIN with ID 600.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_WALLCABINET with ID 601.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_BATH1 with ID 602.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_BATH2 with ID 603.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_SHOWERBOTTOM with ID 604.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_SHOWERTOP with ID 605.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_SHOWERHEADOFF with ID 606.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_SHOWERHEADON with ID 607.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_BIN with ID 608.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_PRESENT with ID 609.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_TREE with ID 610.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_TOASTER with ID 611.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_MICROWAVE with ID 612.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_WASHINGMACHINE with ID 613.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_COOKIEJAR with ID 614.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_BLENDER with ID 615.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_PLATE with ID 616.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_CUP with ID 617.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_COUNTERDOORED with ID 618.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_COUNTERSINK with ID 619.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_DISHWASHER with ID 620.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_KITCHENCABINET with ID 621.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_CHOPPINGBOARD with ID 622.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_BARSTOOL with ID 623.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_HEY with ID 624.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_NYAN with ID 625.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_PATTERN with ID 626.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_YELLOWGLOW with ID 627.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material CFM_WHITEGLASS with ID 628.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material RAILCRAFT_FLUIDCREOSOTE with ID 629.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material RAILCRAFT_FLUIDSTEAM with ID 630.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material RAILCRAFT_RESIDUALHEAT with ID 631.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material RAILCRAFT_CUBE with ID 632.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material RAILCRAFT_ANVIL with ID 633.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material RAILCRAFT_MACHINEALPHA with ID 634.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material RAILCRAFT_MACHINEBETA with ID 635.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material RAILCRAFT_TRACK with ID 636.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material RAILCRAFT_TRACKELEVATOR with ID 637.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material RAILCRAFT_SIGNAL with ID 638.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material RAILCRAFT_STAIR with ID 639.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material RAILCRAFT_SLAB with ID 640.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material RAILCRAFT_LANTERNSTONE with ID 641.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material RAILCRAFT_LANTERNMETAL with ID 642.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material RAILCRAFT_BRICKABYSSAL with ID 643.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material RAILCRAFT_BRICKBLEACHEDBONE with ID 644.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material RAILCRAFT_BRICKBLOODSTAINED with ID 645.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material RAILCRAFT_BRICKFROSTBOUND with ID 646.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material RAILCRAFT_BRICKINFERNAL with ID 647.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material RAILCRAFT_BRICKQUARRIED with ID 648.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material RAILCRAFT_BRICKSANDY with ID 649.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material RAILCRAFT_BRICKNETHER with ID 650.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material RAILCRAFT_POST with ID 651.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material RAILCRAFT_POSTMETAL with ID 652.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material RAILCRAFT_POSTMETALPLATFORM with ID 653.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material RAILCRAFT_WALLALPHA with ID 654.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material RAILCRAFT_WALLBETA with ID 655.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material RAILCRAFT_GLASS with ID 656.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material RAILCRAFT_DETECTOR with ID 657.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material RAILCRAFT_MACHINEGAMMA with ID 658.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material RAILCRAFT_MACHINEEPSILON with ID 659.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material RAILCRAFT_ORE with ID 660.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material RAILCRAFT_WORLDLOGIC with ID 661.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material RAILCRAFT_FIRESTONERECHARGE with ID 662.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material RAILCRAFT_FRAME with ID 663.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material RAILCRAFT_MACHINEDELTA with ID 664.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TWILIGHTFOREST_TILETFLOG with ID 665.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TWILIGHTFOREST_TILETFROOTS with ID 666.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TWILIGHTFOREST_TILETFLEAVES with ID 667.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TWILIGHTFOREST_TILETFFIREFLY with ID 668.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TWILIGHTFOREST_TILETFCICADA with ID 669.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TWILIGHTFOREST_TILETFPORTAL with ID 670.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TWILIGHTFOREST_TILETFMAZESTONE with ID 671.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TWILIGHTFOREST_TILETFHEDGE with ID 672.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TWILIGHTFOREST_TILETFBOSSSPAWNER with ID 673.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TWILIGHTFOREST_TILETFFIREFLYJAR with ID 674.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TWILIGHTFOREST_TILETFPLANT with ID 675.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TWILIGHTFOREST_TILETFUNCRAFTINGTABLE with ID 676.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TWILIGHTFOREST_TILETFFIREJET with ID 677.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TWILIGHTFOREST_TILETFNAGASTONE with ID 678.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TWILIGHTFOREST_TILETFSAPLING with ID 679.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TWILIGHTFOREST_TILETFMOONWORM with ID 680.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TWILIGHTFOREST_TILETFMAGICLOG with ID 681.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TWILIGHTFOREST_TILETFMAGICLEAVES with ID 682.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TWILIGHTFOREST_TILETFMAGICLOGSPECIAL with ID 683.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TWILIGHTFOREST_TILETFTOWERSTONE with ID 684.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TWILIGHTFOREST_TILETFTOWERDEVICE with ID 685.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TWILIGHTFOREST_TILETFTOWERTRANSLUCENT with ID 686.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TWILIGHTFOREST_TILETFTROPHY with ID 687.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TWILIGHTFOREST_TILETFSHIELD with ID 688.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TWILIGHTFOREST_TILETFTROPHYPEDESTAL with ID 689.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TWILIGHTFOREST_TILETFAURORABRICK with ID 690.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TWILIGHTFOREST_TILETFUNDERBRICK with ID 691.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TWILIGHTFOREST_TILETFTHORNS with ID 692.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TWILIGHTFOREST_TILETFBURNTTHORNS with ID 693.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TWILIGHTFOREST_TILETFTHORNROSE with ID 694.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TWILIGHTFOREST_TILETFLEAVES3 with ID 695.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TWILIGHTFOREST_TILETFDEADROCK with ID 696.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TWILIGHTFOREST_TILEDARKLEAVES with ID 697.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TWILIGHTFOREST_TILEAURORAPILLAR with ID 698.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TWILIGHTFOREST_TILEAURORASLAB with ID 699.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TWILIGHTFOREST_TILEAURORADOUBLESLAB with ID 700.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TWILIGHTFOREST_TILETROLLSTEINN with ID 701.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TWILIGHTFOREST_TILEWISPYCLOUD with ID 702.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TWILIGHTFOREST_TILEFLUFFYCLOUD with ID 703.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TWILIGHTFOREST_TILEGIANTCOBBLE with ID 704.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TWILIGHTFOREST_TILEGIANTLOG with ID 705.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TWILIGHTFOREST_TILEGIANTLEAVES with ID 706.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TWILIGHTFOREST_TILEGIANTOBSIDIAN with ID 707.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TWILIGHTFOREST_TILEUBEROUSSOIL with ID 708.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TWILIGHTFOREST_TILEHUGESTALK with ID 709.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TWILIGHTFOREST_TILEHUGEGLOOMBLOCK with ID 710.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TWILIGHTFOREST_TILETROLLVIDR with ID 711.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TWILIGHTFOREST_TILEUNRIPETROLLBER with ID 712.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TWILIGHTFOREST_TILETROLLBER with ID 713.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TWILIGHTFOREST_TILEKNIGHTMETALBLOCK with ID 714.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TWILIGHTFOREST_TILEHUGELILYPAD with ID 715.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TWILIGHTFOREST_TILEHUGEWATERLILY with ID 716.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TWILIGHTFOREST_TILESLIDER with ID 717.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TWILIGHTFOREST_TILECASTLEBRICK with ID 718.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TWILIGHTFOREST_TILECASTLEMAGIC with ID 719.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material TWILIGHTFOREST_TILEFORCEFIELD with ID 720.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material IGUANATWEAKSTCONSTRUCT_SKULLBLOCK with ID 721.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material THERMALEXPANSION_MACHINE with ID 722.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material THERMALEXPANSION_DEVICE with ID 723.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material THERMALEXPANSION_DYNAMO with ID 724.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material THERMALEXPANSION_CELL with ID 725.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material THERMALEXPANSION_TANK with ID 726.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material THERMALEXPANSION_STRONGBOX with ID 727.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material THERMALEXPANSION_CACHE with ID 728.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material THERMALEXPANSION_WORKBENCH with ID 729.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material THERMALEXPANSION_TESSERACT with ID 730.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material THERMALEXPANSION_PLATE with ID 731.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material THERMALEXPANSION_LIGHT with ID 732.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material THERMALEXPANSION_FRAME with ID 733.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material THERMALEXPANSION_GLASS with ID 734.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material THERMALEXPANSION_ROCKWOOL with ID 735.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material THERMALEXPANSION_SPONGE with ID 736.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material THERMALEXPANSION_FAKEAIRSIGNAL with ID 737.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material THERMALEXPANSION_FAKEAIRLIGHT with ID 738.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material THERMALEXPANSION_FAKEAIRFORCE with ID 739.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material THERMALEXPANSION_FAKEAIRBARRIER with ID 740.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material EXNIHILO_IRON_GRAVEL with ID 741.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material EXNIHILO_IRON_SAND with ID 742.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material EXNIHILO_IRON_DUST with ID 743.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material EXNIHILO_NETHER_IRON_GRAVEL with ID 744.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material EXNIHILO_GOLD_GRAVEL with ID 745.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material EXNIHILO_GOLD_SAND with ID 746.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material EXNIHILO_GOLD_DUST with ID 747.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material EXNIHILO_NETHER_GOLD_GRAVEL with ID 748.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material EXNIHILO_COPPER_GRAVEL with ID 749.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material EXNIHILO_COPPER_SAND with ID 750.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material EXNIHILO_COPPER_DUST with ID 751.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material EXNIHILO_NETHER_COPPER_GRAVEL with ID 752.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material EXNIHILO_TIN_GRAVEL with ID 753.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material EXNIHILO_TIN_SAND with ID 754.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material EXNIHILO_TIN_DUST with ID 755.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material EXNIHILO_ENDER_TIN_GRAVEL with ID 756.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material EXNIHILO_SILVER_GRAVEL with ID 757.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material EXNIHILO_SILVER_SAND with ID 758.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material EXNIHILO_SILVER_DUST with ID 759.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material EXNIHILO_ENDER_SILVER_GRAVEL with ID 760.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material EXNIHILO_LEAD_GRAVEL with ID 761.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material EXNIHILO_LEAD_SAND with ID 762.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material EXNIHILO_LEAD_DUST with ID 763.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material EXNIHILO_ENDER_LEAD_GRAVEL with ID 764.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material EXNIHILO_NICKEL_GRAVEL with ID 765.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material EXNIHILO_NICKEL_SAND with ID 766.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material EXNIHILO_NICKEL_DUST with ID 767.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material EXNIHILO_NETHER_NICKEL_GRAVEL with ID 768.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material EXNIHILO_PLATINUM_GRAVEL with ID 769.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material EXNIHILO_PLATINUM_SAND with ID 770.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material EXNIHILO_PLATINUM_DUST with ID 771.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material EXNIHILO_ENDER_PLATINUM_GRAVEL with ID 772.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material EXNIHILO_ALUMINUM_GRAVEL with ID 773.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material EXNIHILO_ALUMINUM_SAND with ID 774.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge block material EXNIHILO_ALUMINUM_DUST with ID 775.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material SC0_SPACECORE_NUGGET with ID 4096.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material SC0_USEFULPETS_WAND with ID 4097.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material SC0_USEFULPETS_GOLDCLAWS with ID 4098.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material SC0_USEFULPETS_IRONCLAWS with ID 4099.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material SC0_USEFULPETS_DIAMONDCLAWS with ID 4100.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material SC0_USEFULPETS_DOMESTICEGG with ID 4101.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTCORE_WRENCHITEM with ID 4102.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTCORE_MAPLOCATION with ID 4103.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTCORE_LIST with ID 4104.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTCORE_DEBUGGER with ID 4105.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTCORE_WOODENGEARITEM with ID 4106.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTCORE_STONEGEARITEM with ID 4107.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTCORE_IRONGEARITEM with ID 4108.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTCORE_GOLDGEARITEM with ID 4109.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTCORE_DIAMONDGEARITEM with ID 4110.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTCORE_PAINTBRUSH with ID 4111.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTBUILDERS_TEMPLATEITEM with ID 4112.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTBUILDERS_BLUEPRINTITEM with ID 4113.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_PIPEWATERPROOF with ID 4114.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEITEMSWOOD with ID 4115.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEITEMSEMERALD with ID 4116.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEITEMSCOBBLESTONE with ID 4117.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEITEMSSTONE with ID 4118.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEITEMSQUARTZ with ID 4119.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEITEMSIRON with ID 4120.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEITEMSGOLD with ID 4121.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEITEMSDIAMOND with ID 4122.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEITEMSOBSIDIAN with ID 4123.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEITEMSLAPIS with ID 4124.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEITEMSDAIZULI with ID 4125.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEITEMSSANDSTONE with ID 4126.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEITEMSVOID with ID 4127.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEITEMSEMZULI with ID 4128.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEITEMSSTRIPES with ID 4129.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEITEMSCLAY with ID 4130.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEFLUIDSWOOD with ID 4131.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEFLUIDSCOBBLESTONE with ID 4132.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEFLUIDSSTONE with ID 4133.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEFLUIDSQUARTZ with ID 4134.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEFLUIDSIRON with ID 4135.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEFLUIDSGOLD with ID 4136.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEFLUIDSEMERALD with ID 4137.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEFLUIDSDIAMOND with ID 4138.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEFLUIDSSANDSTONE with ID 4139.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEFLUIDSVOID with ID 4140.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEFLUIDSCLAY with ID 4141.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEPOWERWOOD with ID 4142.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEPOWERCOBBLESTONE with ID 4143.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEPOWERSTONE with ID 4144.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEPOWERQUARTZ with ID 4145.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEPOWERIRON with ID 4146.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEPOWERGOLD with ID 4147.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEPOWERDIAMOND with ID 4148.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEPOWEREMERALD with ID 4149.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEPOWERSANDSTONE with ID 4150.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPESTRUCTURECOBBLESTONE with ID 4151.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_PIPEWIRE with ID 4152.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_PIPEGATE with ID 4153.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_PIPEFACADE with ID 4154.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_PIPEPLUG with ID 4155.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_PIPELENS with ID 4156.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_PIPEPOWERADAPTER with ID 4157.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_GATECOPIER with ID 4158.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTENERGY_BUCKETOIL with ID 4159.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTENERGY_BUCKETFUEL with ID 4160.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTSILICON_REDSTONECHIPSET with ID 4161.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTSILICON_PACKAGE with ID 4162.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTSILICON_REDSTONECRYSTAL with ID 4163.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTROBOTICS_ROBOT with ID 4164.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTROBOTICS_ROBOTSTATION with ID 4165.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTROBOTICS_REDSTONE_BOARD with ID 4166.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CARPENTERSBLOCKS_ITEMCARPENTERSHAMMER with ID 4167.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CARPENTERSBLOCKS_ITEMCARPENTERSCHISEL with ID 4168.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CARPENTERSBLOCKS_ITEMCARPENTERSTILE with ID 4169.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CARPENTERSBLOCKS_ITEMCARPENTERSDOOR with ID 4170.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CARPENTERSBLOCKS_ITEMCARPENTERSBED with ID 4171.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_BUCKET_WITCHWATER with ID 4172.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_HAMMER_WOOD with ID 4173.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_HAMMER_STONE with ID 4174.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_HAMMER_IRON with ID 4175.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_HAMMER_GOLD with ID 4176.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_HAMMER_DIAMOND with ID 4177.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_CROOK with ID 4178.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_CROOK_BONE with ID 4179.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_SILKWORM with ID 4180.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_MESH with ID 4181.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_SPORES with ID 4182.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_SEED_GRASS with ID 4183.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_STONE with ID 4184.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_PORCELAIN with ID 4185.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_DOLL with ID 4186.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_DOLL_ANGRY with ID 4187.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_DOLL_CREEPY with ID 4188.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_SILKWORM_COOKED with ID 4189.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_SEED_OAK with ID 4190.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_SEED_ACACIA with ID 4191.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_SEED_SPRUCE with ID 4192.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_SEED_BIRCH with ID 4193.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_SEED_JUNGLE with ID 4194.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_SEED_CACTUS with ID 4195.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_SEED_SUGAR_CANE with ID 4196.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_SEED_CARROT with ID 4197.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_SEED_POTATO with ID 4198.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_SEED_RUBBER with ID 4199.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_ICE_SHARD with ID 4200.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material MANTLE_MANTLEBOOK with ID 4201.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_LEXICON with ID 4202.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_BUCKET with ID 4203.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_MATERIAL with ID 4204.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_ARMORHELMETCOPPER with ID 4205.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_ARMORPLATECOPPER with ID 4206.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_ARMORLEGSCOPPER with ID 4207.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_ARMORBOOTSCOPPER with ID 4208.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLSWORDCOPPER with ID 4209.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLSHOVELCOPPER with ID 4210.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLPICKAXECOPPER with ID 4211.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLAXECOPPER with ID 4212.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLHOECOPPER with ID 4213.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLSHEARSCOPPER with ID 4214.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLFISHINGRODCOPPER with ID 4215.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLSICKLECOPPER with ID 4216.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLBOWCOPPER with ID 4217.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_ARMORHELMETTIN with ID 4218.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_ARMORPLATETIN with ID 4219.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_ARMORLEGSTIN with ID 4220.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_ARMORBOOTSTIN with ID 4221.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLSWORDTIN with ID 4222.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLSHOVELTIN with ID 4223.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLPICKAXETIN with ID 4224.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLAXETIN with ID 4225.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLHOETIN with ID 4226.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLSHEARSTIN with ID 4227.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLFISHINGRODTIN with ID 4228.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLSICKLETIN with ID 4229.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLBOWTIN with ID 4230.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_ARMORHELMETSILVER with ID 4231.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_ARMORPLATESILVER with ID 4232.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_ARMORLEGSSILVER with ID 4233.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_ARMORBOOTSSILVER with ID 4234.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLSWORDSILVER with ID 4235.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLSHOVELSILVER with ID 4236.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLPICKAXESILVER with ID 4237.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLAXESILVER with ID 4238.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLHOESILVER with ID 4239.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLSHEARSSILVER with ID 4240.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLFISHINGRODSILVER with ID 4241.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLSICKLESILVER with ID 4242.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLBOWSILVER with ID 4243.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_ARMORHELMETLEAD with ID 4244.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_ARMORPLATELEAD with ID 4245.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_ARMORLEGSLEAD with ID 4246.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_ARMORBOOTSLEAD with ID 4247.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLSWORDLEAD with ID 4248.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLSHOVELLEAD with ID 4249.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLPICKAXELEAD with ID 4250.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLAXELEAD with ID 4251.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLHOELEAD with ID 4252.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLSHEARSLEAD with ID 4253.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLFISHINGRODLEAD with ID 4254.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLSICKLELEAD with ID 4255.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLBOWLEAD with ID 4256.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_ARMORHELMETNICKEL with ID 4257.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_ARMORPLATENICKEL with ID 4258.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_ARMORLEGSNICKEL with ID 4259.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_ARMORBOOTSNICKEL with ID 4260.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLSWORDNICKEL with ID 4261.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLSHOVELNICKEL with ID 4262.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLPICKAXENICKEL with ID 4263.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLAXENICKEL with ID 4264.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLHOENICKEL with ID 4265.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLSHEARSNICKEL with ID 4266.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLFISHINGRODNICKEL with ID 4267.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLSICKLENICKEL with ID 4268.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLBOWNICKEL with ID 4269.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_ARMORHELMETELECTRUM with ID 4270.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_ARMORPLATEELECTRUM with ID 4271.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_ARMORLEGSELECTRUM with ID 4272.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_ARMORBOOTSELECTRUM with ID 4273.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLSWORDELECTRUM with ID 4274.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLSHOVELELECTRUM with ID 4275.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLPICKAXEELECTRUM with ID 4276.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLAXEELECTRUM with ID 4277.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLHOEELECTRUM with ID 4278.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLSHEARSELECTRUM with ID 4279.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLFISHINGRODELECTRUM with ID 4280.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLSICKLEELECTRUM with ID 4281.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLBOWELECTRUM with ID 4282.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_ARMORHELMETINVAR with ID 4283.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_ARMORPLATEINVAR with ID 4284.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_ARMORLEGSINVAR with ID 4285.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_ARMORBOOTSINVAR with ID 4286.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLSWORDINVAR with ID 4287.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLSHOVELINVAR with ID 4288.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLPICKAXEINVAR with ID 4289.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLAXEINVAR with ID 4290.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLHOEINVAR with ID 4291.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLSHEARSINVAR with ID 4292.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLFISHINGRODINVAR with ID 4293.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLSICKLEINVAR with ID 4294.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLBOWINVAR with ID 4295.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_ARMORHELMETBRONZE with ID 4296.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_ARMORPLATEBRONZE with ID 4297.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_ARMORLEGSBRONZE with ID 4298.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_ARMORBOOTSBRONZE with ID 4299.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLSWORDBRONZE with ID 4300.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLSHOVELBRONZE with ID 4301.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLPICKAXEBRONZE with ID 4302.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLAXEBRONZE with ID 4303.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLHOEBRONZE with ID 4304.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLSHEARSBRONZE with ID 4305.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLFISHINGRODBRONZE with ID 4306.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLSICKLEBRONZE with ID 4307.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLBOWBRONZE with ID 4308.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_ARMORHELMETPLATINUM with ID 4309.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_ARMORPLATEPLATINUM with ID 4310.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_ARMORLEGSPLATINUM with ID 4311.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_ARMORBOOTSPLATINUM with ID 4312.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLSWORDPLATINUM with ID 4313.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLSHOVELPLATINUM with ID 4314.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLPICKAXEPLATINUM with ID 4315.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLAXEPLATINUM with ID 4316.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLHOEPLATINUM with ID 4317.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLSHEARSPLATINUM with ID 4318.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLFISHINGRODPLATINUM with ID 4319.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLSICKLEPLATINUM with ID 4320.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALFOUNDATION_TOOLBOWPLATINUM with ID 4321.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALEXPANSION_WRENCH with ID 4322.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALEXPANSION_TOOLBATTLEWRENCHINVAR with ID 4323.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALEXPANSION_METER with ID 4324.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALEXPANSION_IGNITER with ID 4325.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALEXPANSION_CHILLER with ID 4326.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALEXPANSION_PUMP with ID 4327.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALEXPANSION_TRANSFUSER with ID 4328.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALEXPANSION_CAPACITOR with ID 4329.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALEXPANSION_SATCHEL with ID 4330.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALEXPANSION_DIAGRAM with ID 4331.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALEXPANSION_MATERIAL with ID 4332.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALEXPANSION_AUGMENT with ID 4333.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material THERMALEXPANSION_FLORB with ID 4334.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_GOLDHEAD with ID 4335.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_STRANGEFOOD with ID 4336.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_OREBERRIES with ID 4337.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_TITLEICON with ID 4338.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_BLANKPATTERN with ID 4339.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_MATERIALS with ID 4340.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_WOODPATTERN with ID 4341.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_MANUALBOOK with ID 4342.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_PICKAXE with ID 4343.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_SHOVEL with ID 4344.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_HATCHET with ID 4345.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_BROADSWORD with ID 4346.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_LONGSWORD with ID 4347.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_RAPIER with ID 4348.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_DAGGER with ID 4349.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_CUTLASS with ID 4350.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_FRYPAN with ID 4351.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_BATTLESIGN with ID 4352.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_MATTOCK with ID 4353.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_CHISEL with ID 4354.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_LUMBERAXE with ID 4355.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_CLEAVER with ID 4356.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_SCYTHE with ID 4357.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_EXCAVATOR with ID 4358.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_HAMMER with ID 4359.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_BATTLEAXE with ID 4360.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_POTIONLAUNCHER with ID 4361.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_TOOLROD with ID 4362.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_TOOLSHARD with ID 4363.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_PICKAXEHEAD with ID 4364.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_SHOVELHEAD with ID 4365.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_HATCHETHEAD with ID 4366.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_BINDING with ID 4367.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_TOUGHBINDING with ID 4368.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_TOUGHROD with ID 4369.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_HEAVYPLATE with ID 4370.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_SWORDBLADE with ID 4371.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_WIDEGUARD with ID 4372.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_HANDGUARD with ID 4373.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_CROSSBAR with ID 4374.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_KNIFEBLADE with ID 4375.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_FULLGUARD with ID 4376.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_FRYPANHEAD with ID 4377.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_SIGNHEAD with ID 4378.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_CHISELHEAD with ID 4379.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_SCYTHEBLADE with ID 4380.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_BROADAXEHEAD with ID 4381.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_EXCAVATORHEAD with ID 4382.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_LARGESWORDBLADE with ID 4383.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_HAMMERHEAD with ID 4384.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_CREATIVEMODIFIER with ID 4385.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_BUCKETS with ID 4386.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_METALPATTERN with ID 4387.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_DIAMONDAPPLE with ID 4388.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_JERKY with ID 4389.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_HEARTCANISTER with ID 4390.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_KNAPSACK with ID 4391.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_HELMETWOOD with ID 4392.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_CHESTPLATEWOOD with ID 4393.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_LEGGINGSWOOD with ID 4394.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_BOOTSWOOD with ID 4395.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_TRAVELGOGGLES with ID 4396.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_TRAVELVEST with ID 4397.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_TRAVELWINGS with ID 4398.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_TRAVELBOOTS with ID 4399.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_TRAVELGLOVE with ID 4400.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_TRAVELBELT with ID 4401.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_BOWSTRING with ID 4402.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_ARROWHEAD with ID 4403.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_FLETCHING with ID 4404.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_SHURIKENPART with ID 4405.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_BOWLIMBPART with ID 4406.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_CROSSBOWLIMBPART with ID 4407.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_CROSSBOWBODYPART with ID 4408.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_BOLTPART with ID 4409.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_SHURIKEN with ID 4410.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_THROWINGKNIFE with ID 4411.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_JAVELIN with ID 4412.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_SHORTBOW with ID 4413.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_LONGBOW with ID 4414.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_CROSSBOW with ID 4415.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_ARROWAMMO with ID 4416.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_BOLTAMMO with ID 4417.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_PATTERN with ID 4418.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_CAST with ID 4419.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_GLASSARROWS with ID 4420.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_BONEANA with ID 4421.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TCONSTRUCT_GEARCAST with ID 4422.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXASTRISREBIRTH_ITEMSIEVEUPGRADE with ID 4423.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXASTRISREBIRTH_ITEMDOLLFREEZING with ID 4424.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXASTRISREBIRTH_ITEMUNCHARGEDNETHERSTAR with ID 4425.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXASTRISREBIRTH_ITEMCHISELSTONE with ID 4426.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXASTRISREBIRTH_ITEMNUGGETELECTRICALSTEEL with ID 4427.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXASTRISREBIRTH_ITEMSEEDFOODPLUS with ID 4428.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXASTRISREBIRTH_ITEMORECOBALT with ID 4429.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXASTRISREBIRTH_ITEMOREARDITE with ID 4430.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_FERTILIZERBIO with ID 4431.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_FERTILIZERCOMPOUND with ID 4432.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_APATITE with ID 4433.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_RESEARCHNOTE with ID 4434.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_INGOTCOPPER with ID 4435.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_INGOTTIN with ID 4436.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_INGOTBRONZE with ID 4437.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_WRENCH with ID 4438.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_PIPETTE with ID 4439.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_STURDYMACHINE with ID 4440.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_HARDENEDMACHINE with ID 4441.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_IMPREGNATEDCASING with ID 4442.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRAFTINGMATERIAL with ID 4443.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_NATURALISTHELMET with ID 4444.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_PEAT with ID 4445.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_ASH with ID 4446.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_BITUMINOUSPEAT with ID 4447.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_GEARBRONZE with ID 4448.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_GEARCOPPER with ID 4449.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_GEARTIN with ID 4450.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CHIPSETS with ID 4451.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_SOLDERINGIRON with ID 4452.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_THERMIONICTUBES with ID 4453.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CARTON with ID 4454.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_OAKSTICK with ID 4455.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_WOODPULP with ID 4456.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_BROKENBRONZEPICKAXE with ID 4457.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_BROKENBRONZESHOVEL with ID 4458.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_BRONZEPICKAXE with ID 4459.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_BRONZESHOVEL with ID 4460.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_KITSHOVEL with ID 4461.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_KITPICKAXE with ID 4462.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_MOULDYWHEAT with ID 4463.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_DECAYINGWHEAT with ID 4464.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_MULCH with ID 4465.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_IODINECAPSULE with ID 4466.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_PHOSPHOR with ID 4467.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_BEESWAX with ID 4468.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_REFRACTORYWAX with ID 4469.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_FRUITS with ID 4470.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CANEMPTY with ID 4471.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_WAXCAPSULE with ID 4472.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_REFRACTORYEMPTY with ID 4473.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CANETHANOL with ID 4474.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_WAXCAPSULEETHANOL with ID 4475.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_REFRACTORYETHANOL with ID 4476.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_BUCKETETHANOL with ID 4477.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CANBIOMASS with ID 4478.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_WAXCAPSULEBIOMASS with ID 4479.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_REFRACTORYBIOMASS with ID 4480.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_BUCKETBIOMASS with ID 4481.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_BUCKETGLASS with ID 4482.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CANHONEY with ID 4483.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_WAXCAPSULEHONEY with ID 4484.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_REFRACTORYHONEY with ID 4485.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_BUCKETHONEY with ID 4486.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CANICE with ID 4487.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_WAXCAPSULEICE with ID 4488.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_REFRACTORYICE with ID 4489.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_BUCKETICE with ID 4490.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CANJUICE with ID 4491.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_WAXCAPSULEJUICE with ID 4492.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_REFRACTORYJUICE with ID 4493.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_BUCKETJUICE with ID 4494.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CANSEEDOIL with ID 4495.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_WAXCAPSULESEEDOIL with ID 4496.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_REFRACTORYSEEDOIL with ID 4497.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_BUCKETSEEDOIL with ID 4498.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_BUCKETSHORTMEAD with ID 4499.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CANWATER with ID 4500.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_WAXCAPSULEWATER with ID 4501.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_REFRACTORYWATER with ID 4502.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CANLAVA with ID 4503.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_REFRACTORYLAVA with ID 4504.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CANFUEL with ID 4505.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_WAXCAPSULEFUEL with ID 4506.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_REFRACTORYFUEL with ID 4507.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CANOIL with ID 4508.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_WAXCAPSULEOIL with ID 4509.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_REFRACTORYOIL with ID 4510.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_BEEQUEENGE with ID 4511.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_BEEDRONEGE with ID 4512.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_BEEPRINCESSGE with ID 4513.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_BEELARVAEGE with ID 4514.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_BEEALYZER with ID 4515.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_HABITATLOCATOR with ID 4516.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_IMPRINTER with ID 4517.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CARTBEEHOUSE with ID 4518.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_FRAMEUNTREATED with ID 4519.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_FRAMEIMPREGNATED with ID 4520.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_FRAMEPROVEN with ID 4521.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_HONEYDROP with ID 4522.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_POLLEN with ID 4523.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_PROPOLIS with ID 4524.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_HONEYDEW with ID 4525.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_ROYALJELLY with ID 4526.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_WAXCAST with ID 4527.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_BEECOMBS with ID 4528.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_APIARISTHELMET with ID 4529.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_APIARISTCHEST with ID 4530.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_APIARISTLEGS with ID 4531.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_APIARISTBOOTS with ID 4532.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_SCOOP with ID 4533.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_SAPLING with ID 4534.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_POLLENFERTILE with ID 4535.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_TREEALYZER with ID 4536.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_GRAFTER with ID 4537.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_GRAFTERPROVEN with ID 4538.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_HONEYEDSLICE with ID 4539.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_BEVERAGE with ID 4540.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_AMBROSIA with ID 4541.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_HONEYPOT with ID 4542.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_INFUSER with ID 4543.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_FLUTTERLYZER with ID 4544.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_BUTTERFLYGE with ID 4545.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_SERUMGE with ID 4546.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CATERPILLARGE with ID 4547.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_STAMPS with ID 4548.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_LETTERS with ID 4549.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CATALOGUE with ID 4550.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATE with ID 4551.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_APIARISTBAG with ID 4552.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_LEPIDOPTERISTBAG with ID 4553.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_MINERBAG with ID 4554.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_MINERBAGT2 with ID 4555.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_DIGGERBAG with ID 4556.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_DIGGERBAGT2 with ID 4557.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_FORESTERBAG with ID 4558.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_FORESTERBAGT2 with ID 4559.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_HUNTERBAG with ID 4560.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_HUNTERBAGT2 with ID 4561.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_ADVENTURERBAG with ID 4562.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_ADVENTURERBAGT2 with ID 4563.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_BUILDERBAG with ID 4564.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_BUILDERBAGT2 with ID 4565.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDPEAT with ID 4566.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDAPATITE with ID 4567.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDFERTILIZER with ID 4568.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDMULCH with ID 4569.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDPHOSPHOR with ID 4570.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDASH with ID 4571.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDTIN with ID 4572.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDCOPPER with ID 4573.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDBRONZE with ID 4574.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDHUMUS with ID 4575.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDBOGEARTH with ID 4576.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDWHEAT with ID 4577.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDCOOKIES with ID 4578.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDREDSTONE with ID 4579.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDLAPIS with ID 4580.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDREEDS with ID 4581.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDCLAY with ID 4582.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDGLOWSTONE with ID 4583.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDAPPLES with ID 4584.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDNETHERWART with ID 4585.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDCHARCOAL with ID 4586.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDCOAL with ID 4587.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDSEEDS with ID 4588.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDPOTATOES with ID 4589.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDCARROTS with ID 4590.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDWOOD with ID 4591.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDSPRUCEWOOD with ID 4592.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDBIRCHWOOD with ID 4593.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDJUNGLEWOOD with ID 4594.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDACACIAWOOD with ID 4595.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDDARKOAKWOOD with ID 4596.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDCOBBLESTONE with ID 4597.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDDIRT with ID 4598.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDPODZOL with ID 4599.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDSTONE with ID 4600.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDBRICK with ID 4601.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDCACTI with ID 4602.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDSAND with ID 4603.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDREDSAND with ID 4604.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDOBSIDIAN with ID 4605.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDNETHERRACK with ID 4606.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDSOULSAND with ID 4607.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDSANDSTONE with ID 4608.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDNETHERBRICK with ID 4609.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDMYCELIUM with ID 4610.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDGRAVEL with ID 4611.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDSAPLINGS with ID 4612.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDSPRUCESAPLING with ID 4613.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDBIRCHSAPLING with ID 4614.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDJUNGLESAPLING with ID 4615.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDACACIASAPLING with ID 4616.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDDARKOAKSAPLING with ID 4617.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDBEESWAX with ID 4618.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDPOLLEN with ID 4619.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDCRYSTALLINEPOLLEN with ID 4620.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDPROPOLIS with ID 4621.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDHONEYDEW with ID 4622.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDROYALJELLY with ID 4623.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDHONEYCOMBS with ID 4624.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDCOCOACOMB with ID 4625.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDSIMMERINGCOMBS with ID 4626.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDSTRINGYCOMBS with ID 4627.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDFROZENCOMBS with ID 4628.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDDRIPPINGCOMBS with ID 4629.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDSILKYCOMBS with ID 4630.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDPARCHEDCOMBS with ID 4631.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDMYSTERIOUSCOMBS with ID 4632.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDPOWDERYCOMBS with ID 4633.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDWHEATENCOMBS with ID 4634.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDMOSSYCOMBS with ID 4635.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDMELLOWCOMBS with ID 4636.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDREFRACTORYWAX with ID 4637.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDCHERRY with ID 4638.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDWALNUT with ID 4639.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDCHESTNUT with ID 4640.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDLEMON with ID 4641.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDPLUM with ID 4642.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDPAPAYA with ID 4643.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material FORESTRY_CRATEDDATES with ID 4644.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material GLACIA_GLACIALDOOR with ID 4645.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material GLACIA_GLACIALCRYSTAL with ID 4646.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material GLACIA_GLACIALCRYSTALHELMET with ID 4647.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material GLACIA_GLACIALCRYSTALCHEST with ID 4648.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material GLACIA_GLACIALCRYSTALLEGGINGS with ID 4649.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material GLACIA_GLACIALCRYSTALBOOTS with ID 4650.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material GLACIA_GLACIALCRYSTALSWORD with ID 4651.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material GLACIA_GLACIALCRYSTALPICKAXE with ID 4652.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material GLACIA_GLACIALCRYSTALAXE with ID 4653.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material GLACIA_GLACIALCRYSTALSHOVEL with ID 4654.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material GLACIA_GLACIALCRYSTALHOE with ID 4655.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material GLACIA_GLACIALCOMPACTICE with ID 4656.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material GLACIA_GLACIALICEHELMET with ID 4657.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material GLACIA_GLACIALICECHESTPLATE with ID 4658.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material GLACIA_GLACIALICELEGGINGS with ID 4659.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material GLACIA_GLACIALICEBOOTS with ID 4660.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material GLACIA_GLACIALICESWORD with ID 4661.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material GLACIA_GLACIALCRYSTALROD with ID 4662.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material GLACIA_GLACIALICEBASTARDSWORD with ID 4663.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material GLACIA_GLACIALICEDAGGER with ID 4664.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material GLACIA_GLACIALICEWARHAMMER with ID 4665.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material GLACIA_GLACIALICEROD with ID 4666.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material GLACIA_GLACIALICEPICKAXE with ID 4667.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material GLACIA_GLACIALICEAXE with ID 4668.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material GLACIA_GLACIALICESHOVEL with ID 4669.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material GLACIA_GLACIALICEHOE with ID 4670.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material GLACIA_GLACIALMAGICPORTALSWITCHER with ID 4671.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material GLACIA_GLACIALMAGICSTONEPIECE with ID 4672.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material GLACIA_GLACIALWOODROD with ID 4673.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material GLACIA_GLACIALWOODSWORD with ID 4674.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material GLACIA_GLACIALWOODPICKAXE with ID 4675.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material GLACIA_GLACIALWOODAXE with ID 4676.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material GLACIA_GLACIALWOODSHOVEL with ID 4677.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material GLACIA_GLACIALWOODHOE with ID 4678.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material GLACIA_GLACIALMISTERIOUSBODY with ID 4679.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material GLACIA_GLACIALMISTERIOUSARMORPIECE with ID 4680.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material GLACIA_GLACIALBROKENQUADIUMBULB with ID 4681.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material GLACIA_GLACIALQUADIUMBULB with ID 4682.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material GLACIA_GLACIALPENGUINFEATHERS with ID 4683.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material GLACIA_GLACIALBERRY with ID 4684.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material GLACIA_GLACIALSABERTOOTHEDCATMEAT with ID 4685.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material GLACIA_GLACIALSABERTOOTHEDCATCOOKEDMEAT with ID 4686.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material GLACIA_GLACIALBLUESTONE with ID 4687.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material GLACIA_GLACIALQUADIUMPEARL with ID 4688.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material GLACIA_GLACIALTURTLEHEAD with ID 4689.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material GLACIA_GLACIALTURTLESHELL with ID 4690.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material GLACIA_GLACIALTURTLELIMBS with ID 4691.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material GLACIA_GLACIALTURTLEPAWS with ID 4692.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material GLACIA_GLACIALRETURNRUNE with ID 4693.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material GLACIA_GLACIAPOTIONMORPHSNOWMAN with ID 4694.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMTABLEWOOD with ID 4695.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMTABLESTONE with ID 4696.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMCHAIRWOOD with ID 4697.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMCHAIRSTONE with ID 4698.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMCABINET with ID 4699.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMBESIDECABINET with ID 4700.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMCOFFEETABLEWOOD with ID 4701.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMCOFFEETABLESTONE with ID 4702.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMFRIDGE with ID 4703.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMCOOLPACK with ID 4704.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMCOUCH with ID 4705.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMBLINDS with ID 4706.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMCURTAINS with ID 4707.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMOVEN with ID 4708.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMOVENRANGEHOOD with ID 4709.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMFLESH with ID 4710.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMCOOKEDFLESH with ID 4711.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMHEDGEBASIC with ID 4712.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMHEDGESPRUCE with ID 4713.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMHEDGEBIRCH with ID 4714.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMHEDGEJUNGLE with ID 4715.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMBIRDBATH with ID 4716.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMSTONEPATH with ID 4717.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMWHITEFENCE with ID 4718.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMTAP with ID 4719.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMMAILBOX with ID 4720.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMHAMMER with ID 4721.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMENVELOPE with ID 4722.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMENVELOPESIGNED with ID 4723.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMPACKAGE with ID 4724.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMPACKAGESIGNED with ID 4725.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMTV with ID 4726.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMCOMPUTER with ID 4727.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMPRINTER with ID 4728.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMINKCARTRIDGE with ID 4729.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMSTEREO with ID 4730.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMELECTRICFENCE with ID 4731.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMCEILINGLIGHT with ID 4732.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMDOORBELL with ID 4733.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMFIREALARM with ID 4734.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMLAMP with ID 4735.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMTOILET with ID 4736.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMBASIN with ID 4737.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMWALLCABINET with ID 4738.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMBATH with ID 4739.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMSHOWER with ID 4740.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMSHOWERHEAD with ID 4741.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMBIN with ID 4742.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMPRESENTRED with ID 4743.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMPRESENTGREEN with ID 4744.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMTREE with ID 4745.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMTOASTER with ID 4746.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMMICROWAVE with ID 4747.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMWASHINGMACHINE with ID 4748.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMCOOKIEJAR with ID 4749.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMBLENDER with ID 4750.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMPLATE with ID 4751.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMCOUNTERDOORED with ID 4752.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMCOUNTERSINK with ID 4753.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMDISHWASHER with ID 4754.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMKITCHENCABINET with ID 4755.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMCHOPPINGBOARD with ID 4756.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMBARSTALL with ID 4757.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMBREADSLICE with ID 4758.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMTOAST with ID 4759.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMKNIFE with ID 4760.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMCUP with ID 4761.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMDRINK with ID 4762.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMSOAP with ID 4763.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMSOAPYWATER with ID 4764.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMSUPERSOAPYWATER with ID 4765.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMRECIPEBOOK with ID 4766.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMCRAYFISH with ID 4767.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material CFM_ITEMDOLLAR with ID 4768.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_FLUIDCREOSOTEBUCKET with ID 4769.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_FLUIDCREOSOTEBOTTLE with ID 4770.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_FLUIDCREOSOTECAN with ID 4771.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_FLUIDCREOSOTECELL with ID 4772.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_FLUIDCREOSOTEWAX with ID 4773.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_FLUIDCREOSOTEREFACTORY with ID 4774.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_FLUIDSTEAMBOTTLE with ID 4775.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_TOOLCROWBAR with ID 4776.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_TOOLCROWBARREINFORCED with ID 4777.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_TOOLMAGNIFYINGGLASS with ID 4778.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_ARMORGOGGLES with ID 4779.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_PARTCIRCUIT with ID 4780.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_TOOLSTEELSHEARS with ID 4781.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_TOOLSTEELSWORD with ID 4782.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_TOOLSTEELSHOVEL with ID 4783.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_TOOLSTEELPICKAXE with ID 4784.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_TOOLSTEELAXE with ID 4785.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_TOOLSTEELHOE with ID 4786.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_ARMORSTEELHELMET with ID 4787.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_ARMORSTEELPLATE with ID 4788.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_ARMORSTEELLEGS with ID 4789.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_ARMORSTEELBOOTS with ID 4790.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_ARMOROVERALLS with ID 4791.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_NUGGET with ID 4792.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_INGOT with ID 4793.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_PARTRAILBED with ID 4794.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_PARTTIE with ID 4795.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_PARTREBAR with ID 4796.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_PARTRAIL with ID 4797.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_FUELCOKE with ID 4798.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_PARTPLATE with ID 4799.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_DUST with ID 4800.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_PARTGEAR with ID 4801.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_CARTTNTWOOD with ID 4802.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_CARTWORK with ID 4803.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_TOOLSURVEYOR with ID 4804.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_TOOLSIGNALTUNER with ID 4805.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_PARTSIGNALLAMP with ID 4806.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_PARTBLEACHEDCLAY with ID 4807.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_CARTBORE with ID 4808.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_BOREHEADDIAMOND with ID 4809.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_BOREHEADSTEEL with ID 4810.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_BOREHEADIRON with ID 4811.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_CARTTRACKRELAYER with ID 4812.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_CARTUNDERCUTTER with ID 4813.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_CARTTRACKLAYER with ID 4814.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_CARTTRACKREMOVER with ID 4815.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_CARTTANK with ID 4816.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_CARTCARGO with ID 4817.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_CARTANCHOR with ID 4818.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_CARTANCHORPERSONAL with ID 4819.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_CARTANCHORADMIN with ID 4820.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_CARTPUMPKIN with ID 4821.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_CARTGIFT with ID 4822.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_TOOLWHISTLETUNER with ID 4823.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_CARTLOCOSTEAMSOLID with ID 4824.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_CARTLOCOELECTRIC with ID 4825.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_ROUTINGTABLE with ID 4826.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_ROUTINGTICKETGOLD with ID 4827.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_ROUTINGTICKET with ID 4828.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_EMBLEM with ID 4829.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_FIRESTONERAW with ID 4830.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_FIRESTONECUT with ID 4831.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_FIRESTONEREFINED with ID 4832.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_FIRESTONECRACKED with ID 4833.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_TOOLELECTRICMETER with ID 4834.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_PARTTURBINEROTOR with ID 4835.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_PARTTURBINEDISK with ID 4836.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_PARTTURBINEBLADE with ID 4837.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMNAGASCALE with ID 4838.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMPLATENAGA with ID 4839.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMLEGSNAGA with ID 4840.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMSCEPTERTWILIGHT with ID 4841.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMSCEPTERLIFEDRAIN with ID 4842.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMSCEPTERZOMBIE with ID 4843.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMOREMETER with ID 4844.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMMAGICMAP with ID 4845.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMMAZEMAP with ID 4846.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMOREMAP with ID 4847.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMTFFEATHER with ID 4848.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMMAGICMAPFOCUS with ID 4849.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMMAZEMAPFOCUS with ID 4850.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMLIVEROOT with ID 4851.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMIRONWOODRAW with ID 4852.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMIRONWOODINGOT with ID 4853.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMIRONWOODHELM with ID 4854.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMIRONWOODPLATE with ID 4855.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMIRONWOODLEGS with ID 4856.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMIRONWOODBOOTS with ID 4857.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMIRONWOODSWORD with ID 4858.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMIRONWOODSHOVEL with ID 4859.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMIRONWOODPICK with ID 4860.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMIRONWOODAXE with ID 4861.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMIRONWOODHOE with ID 4862.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMTORCHBERRIES with ID 4863.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMVENISONRAW with ID 4864.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMVENISONCOOKED with ID 4865.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMHYDRACHOP with ID 4866.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMFIERYBLOOD with ID 4867.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMTROPHY with ID 4868.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMFIERYINGOT with ID 4869.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMFIERYHELM with ID 4870.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMFIERYPLATE with ID 4871.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMFIERYLEGS with ID 4872.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMFIERYBOOTS with ID 4873.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMFIERYSWORD with ID 4874.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMFIERYPICK with ID 4875.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMSTEELEAFINGOT with ID 4876.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMSTEELEAFHELM with ID 4877.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMSTEELEAFPLATE with ID 4878.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMSTEELEAFLEGS with ID 4879.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMSTEELEAFBOOTS with ID 4880.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMSTEELEAFSWORD with ID 4881.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMSTEELEAFSHOVEL with ID 4882.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMSTEELEAFPICK with ID 4883.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMSTEELEAFAXE with ID 4884.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMSTEELEAFHOE with ID 4885.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMMINOTAURAXE with ID 4886.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMMAZEBREAKERPICK with ID 4887.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMTRANSFORMPOWDER with ID 4888.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMMEEFRAW with ID 4889.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMMEEFSTEAK with ID 4890.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMMEEFSTROGANOFF with ID 4891.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMMAZEWAFER with ID 4892.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMEMPTYMAGICMAP with ID 4893.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMEMPTYMAZEMAP with ID 4894.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMEMPTYOREMAP with ID 4895.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMOREMAGNET with ID 4896.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMCRUMBLEHORN with ID 4897.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMPEACOCKFAN with ID 4898.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMMOONWORMQUEEN with ID 4899.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMCHARMOFLIFE1 with ID 4900.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMCHARMOFLIFE2 with ID 4901.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMCHARMOFKEEPING1 with ID 4902.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMCHARMOFKEEPING2 with ID 4903.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMCHARMOFKEEPING3 with ID 4904.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMTOWERKEY with ID 4905.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMBORERESSENCE with ID 4906.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMCARMINITE with ID 4907.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMEXPERIMENT115 with ID 4908.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMARMORSHARDS with ID 4909.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMKNIGHTMETAL with ID 4910.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMSHARDCLUSTER with ID 4911.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMKNIGHTLYHELM with ID 4912.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMKNIGHTLYPLATE with ID 4913.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMKNIGHTLYLEGS with ID 4914.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMKNIGHTLYBOOTS with ID 4915.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMKNIGHTLYSWORD with ID 4916.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMKNIGHTLYPICK with ID 4917.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMKNIGHTLYAXE with ID 4918.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMPHANTOMHELM with ID 4919.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMPHANTOMPLATE with ID 4920.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMLAMPOFCINDERS with ID 4921.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMFIERYTEARS with ID 4922.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMALPHAFUR with ID 4923.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMYETIHELM with ID 4924.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMYETIPLATE with ID 4925.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMYETILEGS with ID 4926.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMYETIBOOTS with ID 4927.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMICEBOMB with ID 4928.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMARCTICFUR with ID 4929.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMARCTICHELM with ID 4930.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMARCTICPLATE with ID 4931.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMARCTICLEGS with ID 4932.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMARCTICBOOTS with ID 4933.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMMAGICBEANS with ID 4934.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMGIANTPICK with ID 4935.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMGIANTSWORD with ID 4936.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMTRIPLEBOW with ID 4937.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMSEEKERBOW with ID 4938.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMICEBOW with ID 4939.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMENDERBOW with ID 4940.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMICESWORD with ID 4941.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMGLASSSWORD with ID 4942.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMKNIGHTMETALRING with ID 4943.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMCHAINBLOCK with ID 4944.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMCUBETALISMAN with ID 4945.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMCUBEOFANNIHILATION with ID 4946.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material TWILIGHTFOREST_ITEMTFSPAWNEGG with ID 4947.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_SPEARWOOD with ID 4948.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_SPEARSTONE with ID 4949.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_SPEARIRON with ID 4950.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_SPEARGOLD with ID 4951.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_SPEARDIAMOND with ID 4952.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_HALBERDWOOD with ID 4953.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_HALBERDSTONE with ID 4954.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_HALBERDIRON with ID 4955.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_HALBERDGOLD with ID 4956.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_HALBERDDIAMOND with ID 4957.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_BATTLEAXEWOOD with ID 4958.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_BATTLEAXESTONE with ID 4959.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_BATTLEAXEIRON with ID 4960.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_BATTLEAXEGOLD with ID 4961.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_BATTLEAXEDIAMOND with ID 4962.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_KNIFEWOOD with ID 4963.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_KNIFESTONE with ID 4964.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_KNIFEIRON with ID 4965.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_KNIFEGOLD with ID 4966.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_KNIFEDIAMOND with ID 4967.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_WARHAMMERWOOD with ID 4968.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_WARHAMMERSTONE with ID 4969.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_WARHAMMERIRON with ID 4970.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_WARHAMMERGOLD with ID 4971.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_WARHAMMERDIAMOND with ID 4972.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_FLAILWOOD with ID 4973.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_FLAILSTONE with ID 4974.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_FLAILIRON with ID 4975.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_FLAILGOLD with ID 4976.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_FLAILDIAMOND with ID 4977.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_KATANAWOOD with ID 4978.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_KATANASTONE with ID 4979.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_KATANAIRON with ID 4980.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_KATANAGOLD with ID 4981.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_KATANADIAMOND with ID 4982.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_BOOMERANGWOOD with ID 4983.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_BOOMERANGSTONE with ID 4984.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_BOOMERANGIRON with ID 4985.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_BOOMERANGGOLD with ID 4986.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_BOOMERANGDIAMOND with ID 4987.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_FIREROD with ID 4988.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_JAVELIN with ID 4989.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_CROSSBOW with ID 4990.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_BOLT with ID 4991.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_BLOWGUN with ID 4992.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_DART with ID 4993.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_MUSKETBAYONETWOOD with ID 4994.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_MUSKETBAYONETSTONE with ID 4995.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_MUSKETBAYONETIRON with ID 4996.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_MUSKETBAYONETGOLD with ID 4997.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_MUSKETBAYONETDIAMOND with ID 4998.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_MUSKET with ID 4999.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_MUSKETIRONPART with ID 5000.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_BLUNDERBUSS with ID 5001.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_BLUNDERIRONPART with ID 5002.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_SHOT with ID 5003.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_FLINTLOCK with ID 5004.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_DYNAMITE with ID 5005.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_CANNON with ID 5006.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_CANNONBALL with ID 5007.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_DUMMY with ID 5008.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_GUNSTOCK with ID 5009.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_BULLET with ID 5010.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material IGUANATWEAKSTCONSTRUCT_RUBBERCHICKEN with ID 5011.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material IGUANATWEAKSTCONSTRUCT_SKULLITEM with ID 5012.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material IGUANATWEAKSTCONSTRUCT_WEARABLEBUCKET with ID 5013.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material IGUANATWEAKSTCONSTRUCT_CLAYBUCKETUNFIRED with ID 5014.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material IGUANATWEAKSTCONSTRUCT_CLAYBUCKETFIRED with ID 5015.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material IGUANATWEAKSTCONSTRUCT_CLAYBUCKETWATER with ID 5016.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material IGUANATWEAKSTCONSTRUCT_CLAYBUCKETLAVA with ID 5017.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material IGUANATWEAKSTCONSTRUCT_CLAYBUCKETMILK with ID 5018.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material IGUANATWEAKSTCONSTRUCT_CLAYBUCKETSTINKERS with ID 5019.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_BACKPACKTRACKMANT1 with ID 5020.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_BACKPACKTRACKMANT2 with ID 5021.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_BACKPACKICEMANT1 with ID 5022.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_BACKPACKICEMANT2 with ID 5023.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_BACKPACKAPOTHECARYT1 with ID 5024.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material RAILCRAFT_BACKPACKAPOTHECARYT2 with ID 5025.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_EXNIHILOIRON_BROKEN with ID 5026.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_EXNIHILOIRON_CRUSHED with ID 5027.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_EXNIHILOIRON_POWDERED with ID 5028.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_EXNIHILONETHER_IRON_BROKEN with ID 5029.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_EXNIHILOGOLD_BROKEN with ID 5030.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_EXNIHILOGOLD_CRUSHED with ID 5031.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_EXNIHILOGOLD_POWDERED with ID 5032.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_EXNIHILONETHER_GOLD_BROKEN with ID 5033.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_EXNIHILOCOPPER_BROKEN with ID 5034.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_EXNIHILOCOPPER_CRUSHED with ID 5035.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_EXNIHILOCOPPER_POWDERED with ID 5036.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_EXNIHILOCOPPER_INGOT with ID 5037.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_EXNIHILONETHER_COPPER_BROKEN with ID 5038.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_EXNIHILOTIN_BROKEN with ID 5039.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_EXNIHILOTIN_CRUSHED with ID 5040.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_EXNIHILOTIN_POWDERED with ID 5041.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_EXNIHILOTIN_INGOT with ID 5042.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_EXNIHILOENDER_TIN_BROKEN with ID 5043.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_EXNIHILOSILVER_BROKEN with ID 5044.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_EXNIHILOSILVER_CRUSHED with ID 5045.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_EXNIHILOSILVER_POWDERED with ID 5046.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_EXNIHILOSILVER_INGOT with ID 5047.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_EXNIHILOENDER_SILVER_BROKEN with ID 5048.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_EXNIHILOLEAD_BROKEN with ID 5049.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_EXNIHILOLEAD_CRUSHED with ID 5050.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_EXNIHILOLEAD_POWDERED with ID 5051.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_EXNIHILOLEAD_INGOT with ID 5052.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_EXNIHILOENDER_LEAD_BROKEN with ID 5053.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_EXNIHILONICKEL_BROKEN with ID 5054.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_EXNIHILONICKEL_CRUSHED with ID 5055.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_EXNIHILONICKEL_POWDERED with ID 5056.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_EXNIHILONICKEL_INGOT with ID 5057.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_EXNIHILONETHER_NICKEL_BROKEN with ID 5058.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_EXNIHILOPLATINUM_BROKEN with ID 5059.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_EXNIHILOPLATINUM_CRUSHED with ID 5060.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_EXNIHILOPLATINUM_POWDERED with ID 5061.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_EXNIHILOPLATINUM_INGOT with ID 5062.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_EXNIHILOENDER_PLATINUM_BROKEN with ID 5063.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_EXNIHILOALUMINUM_BROKEN with ID 5064.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_EXNIHILOALUMINUM_CRUSHED with ID 5065.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_EXNIHILOALUMINUM_POWDERED with ID 5066.
+[18:50:20] [Server thread/INFO] [FML/]: Injected new Forge item material EXNIHILO_EXNIHILOALUMINUM_INGOT with ID 5067.
+[18:50:21] [Server thread/INFO] [/]: Mapping loaded 11 packages, 7841 classes, 26711 fields, 53884 methods, flags 1ffa
+[18:50:21] [Server thread/INFO] [/]: Loaded inheritance map of 895 classes
+[18:50:21] [Server thread/WARN] [FML/]: =============================================================
+[18:50:21] [Server thread/WARN] [FML/]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
+[18:50:21] [Server thread/WARN] [FML/]: Offendor: net/md_5/specialsource/SpecialSource.main([Ljava/lang/String;)V
+[18:50:21] [Server thread/WARN] [FML/]: Use FMLCommonHandler.exitJava instead
+[18:50:21] [Server thread/WARN] [FML/]: =============================================================
+[18:50:21] [Server thread/WARN] [FML/]: =============================================================
+[18:50:21] [Server thread/WARN] [FML/]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
+[18:50:21] [Server thread/WARN] [FML/]: Offendor: net/md_5/specialsource/SpecialSource.main([Ljava/lang/String;)V
+[18:50:21] [Server thread/WARN] [FML/]: Use FMLCommonHandler.exitJava instead
+[18:50:21] [Server thread/WARN] [FML/]: =============================================================
+[18:50:21] [Server thread/WARN] [FML/]: =============================================================
+[18:50:21] [Server thread/WARN] [FML/]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
+[18:50:21] [Server thread/WARN] [FML/]: Offendor: net/md_5/specialsource/SpecialSource.main([Ljava/lang/String;)V
+[18:50:21] [Server thread/WARN] [FML/]: Use FMLCommonHandler.exitJava instead
+[18:50:21] [Server thread/WARN] [FML/]: =============================================================
+[18:50:21] [Server thread/WARN] [FML/]: =============================================================
+[18:50:21] [Server thread/WARN] [FML/]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
+[18:50:21] [Server thread/WARN] [FML/]: Offendor: net/md_5/specialsource/SpecialSource.main([Ljava/lang/String;)V
+[18:50:21] [Server thread/WARN] [FML/]: Use FMLCommonHandler.exitJava instead
+[18:50:21] [Server thread/WARN] [FML/]: =============================================================
+[18:50:21] [Server thread/INFO] [net.anticreeper.Anticreeper/]: [AntiCreeper] Loading AntiCreeper v4.18.1
+[18:50:21] [Server thread/INFO] [/]: Adding biome mapping 40 Twilight Lake at BiomeBase[40]
+[18:50:21] [Server thread/INFO] [/]: Adding biome mapping 41 Twilight Forest at BiomeBase[41]
+[18:50:21] [Server thread/INFO] [/]: Adding biome mapping 42 Dense Twilight Forest at BiomeBase[42]
+[18:50:21] [Server thread/INFO] [/]: Adding biome mapping 43 Twilight Highlands at BiomeBase[43]
+[18:50:21] [Server thread/INFO] [/]: Adding biome mapping 44 Mushroom Forest at BiomeBase[44]
+[18:50:21] [Server thread/INFO] [/]: Adding biome mapping 45 Twilight Swamp at BiomeBase[45]
+[18:50:21] [Server thread/INFO] [/]: Adding biome mapping 46 Twilight Stream at BiomeBase[46]
+[18:50:21] [Server thread/INFO] [/]: Adding biome mapping 47 Snowy Forest at BiomeBase[47]
+[18:50:21] [Server thread/INFO] [/]: Adding biome mapping 48 Twilight Glacier at BiomeBase[48]
+[18:50:21] [Server thread/INFO] [/]: Adding biome mapping 49 Twilight Clearing at BiomeBase[49]
+[18:50:21] [Server thread/INFO] [/]: Adding biome mapping 50 Oak Savanna at BiomeBase[50]
+[18:50:21] [Server thread/INFO] [/]: Adding biome mapping 51 Firefly Forest at BiomeBase[51]
+[18:50:21] [Server thread/INFO] [/]: Adding biome mapping 52 Deep Mushroom Forest at BiomeBase[52]
+[18:50:21] [Server thread/INFO] [/]: Adding biome mapping 53 Dark Forest Center at BiomeBase[53]
+[18:50:21] [Server thread/INFO] [/]: Adding biome mapping 54 Highlands Center at BiomeBase[54]
+[18:50:21] [Server thread/INFO] [/]: Adding biome mapping 55 Dark Forest at BiomeBase[55]
+[18:50:21] [Server thread/INFO] [/]: Adding biome mapping 56 Enchanted Forest at BiomeBase[56]
+[18:50:21] [Server thread/INFO] [/]: Adding biome mapping 57 Fire Swamp at BiomeBase[57]
+[18:50:21] [Server thread/INFO] [/]: Adding biome mapping 58 Thornlands at BiomeBase[58]
+[18:50:21] [Server thread/INFO] [/]: Adding biome mapping 126 Ocean Oil Field at BiomeBase[126]
+[18:50:21] [Server thread/INFO] [/]: Adding biome mapping 127 Desert Oil Field at BiomeBase[127]
+[18:50:21] [Server thread/INFO] [FML/]: Loading dimension 0 (StrandedRaft_wh) (net.minecraft.server.dedicated.DedicatedServer@4ea3ba42)
+[18:50:21] [Server thread/INFO] [FML/]: Loading dimension 7 (DIM7) (net.minecraft.server.dedicated.DedicatedServer@4ea3ba42)
+[18:50:21] [Server thread/INFO] [FML/]: Applying holder lookups
+[18:50:21] [Server thread/INFO] [FML/]: Holder lookups applied
+[18:50:21] [Server thread/INFO] [FML/]: The state engine was in incorrect state SERVER_STARTING and forced into state SERVER_STOPPED. Errors may have been discarded.
